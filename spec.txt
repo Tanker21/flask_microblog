@@ -1,0 +1,5 @@
+Project from: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+This project uses Flask to create a blog web app.  the author Miguel Grinberg's book Flask web Development walks through
+20 chapters and ends up building a microblog app that is deployed to Heroku, and involves user handling, error handling,
+pagination, email support, ajax, and full text search.
