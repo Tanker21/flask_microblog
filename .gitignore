@@ -1,2 +1,4 @@
 #Python env
-env/
+venv/
+#python installed files
+__pycache__/
